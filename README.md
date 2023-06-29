@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Abd El-Motalib</h1>
 <h3 align="center">"Unleashing the Power of C#: A .NET Developer's Journey"</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=motalib01" alt="motalib01" /></a> </p>
-
 - I’m currently learning **DOTNET, C#**
 
 - All of my projects are available at [my Github](my Github)
