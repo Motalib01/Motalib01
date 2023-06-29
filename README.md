@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Abd El-Motalib</h1>
-<h3 align="center">"Unleashing the Power of C#: A .NET Developer's Journey"</h3>
+<h3 align="center">"C# and .NET Unveiled: Embarking on the Journey of Mastery"</h3>
 
 - I’m currently learning **DOTNET, C#**
 
