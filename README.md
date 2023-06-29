@@ -3,7 +3,7 @@
 
 - I’m currently learning **DOTNET, C#**
 
-- All of my projects are available at [my Github](my Github)
+- All of my projects are available at [my Github]
 
 - Ow to reach me **abdelmotalib.chemouri@gmail.com**
 
