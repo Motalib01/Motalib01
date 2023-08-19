@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Abd El-Motalib</h1>
 <h3 align="center">"C# and .NET Unveiled: Embarking on the Journey of Mastery"</h3>
 
-
-
 - I’m currently learning **DOTNET, C#**
 
 - All of my projects are available at [my Github](my Github)
